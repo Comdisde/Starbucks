@@ -1,0 +1,3 @@
+Starbucks_Model_Bebidas: Try to make a model to predict which drink will take a customer.
+Starbucks_Model_Total: Predict how many customers will come to the store.
+Starbucks_Clustering: Makes the cluster of the clientele.
