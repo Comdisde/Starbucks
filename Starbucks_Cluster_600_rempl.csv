@@ -1,0 +1,618 @@
+,Dinero gastado,Total personas,Total Hombres,Total Mujeres,Hora,Edad,Local/Llegar,Bebida,Comida,Dia,cl
+0,25,1,0,1,08:06,20-30,Local,Hot,0,martes,Trabajador
+1,29,1,0,1,08:07,40-50,Local,Hot,Rollo,martes,Trabajador
+2,48,1,0,1,08:09,20-30,Llevar,Hot,0,martes,Trabajador
+3,0,1,1,0,08:10,40-50,Local,Frappe,0,martes,Trabajador
+4,156,1,0,1,08:24,30-40,Llevar,Te,Envuelto,martes,Trabajador
+5,106,2,1,1,08:28,30-40,Local,Te,Tejas,martes,Parejas
+6,25,1,1,0,08:29,40-50,Llevar,Hot,0,martes,Trabajador
+7,118,1,0,1,08:31,40-50,Llevar,Hot,Envuelto A,martes,Trabajador
+8,36,1,1,0,08:36,40-50,Llevar,Hot,0,martes,Trabajador
+9,60,1,0,1,08:46,20-30,Local,Hot,P Marmol,martes,Trabajador
+10,19,1,0,1,09:06,50-60,Local,Hot,0,martes,Trabajador
+11,25,1,1,0,09:08,50-60,Local,Hot,0,martes,Trabajador
+12,38,1,1,0,09:10,40-50,Local,Hot,0,martes,Trabajador
+13,96,2,1,1,09:14,40-50,Llevar,Hot,0,martes,Parejas
+14,120,1,1,0,09:18,40-50,Local,Hot,P Esp,martes,Trabajador
+15,34,1,1,0,09:22,30-40,Llevar,Hot,0,martes,Trabajador
+16,73,1,1,0,09:25,40-50,Local,Hot,Dona CC,martes,Trabajador
+17,19,1,1,0,09:37,60-70,Local,Hot,0,martes,Trabajador
+18,58,2,1,0,09:50,30-40,Local,Hot,Rollo,martes,Estudiante
+19,244,3,1,2,09:54,30-40,Llevar,Hot,CJQ,martes,Amigos
+20,29,1,1,0,09:56,40-50,Llevar,Te,0,martes,Trabajador
+21,29,1,0,1,09:58,40-50,Llevar,Hot,Rollo,martes,Trabajador
+22,50,1,1,0,09:59,40-50,Llevar,Cold,0,martes,Trabajador
+23,34,1,0,1,10:23,30-40,Llevar,Te,0,martes,Trabajador
+24,49,1,1,0,10:24,20-30,Llevar,Jugo,0,martes,Trabajador
+25,32,1,1,0,10:25,70-80,Local,Hot,0,martes,Trabajador
+26,44,1,1,0,10:26,40-50,Local,Hot,0,martes,Trabajador
+27,29,1,1,0,10:34,40-50,Llevar,Hot,Dona,martes,Trabajador
+28,29,1,1,0,10:42,30-40,Local,Hot,Dona,martes,Trabajador
+29,102,1,1,0,10:47,40-50,Llevar,Hot,Envuelto A,martes,Trabajador
+30,42,1,1,0,10:48,70-80,Local,Hot,0,martes,Trabajador
+31,111,1,0,1,10:49,40-50,Llevar,Hot,Envuelto,martes,Trabajador
+32,105,2,1,1,10:52,40-50,Local,Hot,0,martes,Parejas
+33,49,1,1,0,10:54,50-60,Local,Hot,0,martes,Trabajador
+34,154,2,1,1,11:00,40-70,Local,Hot,CJQ,martes,Parejas
+35,59,1,0,1,11:10,30-40,Local,Hot,P Clasico,martes,Trabajador
+36,39,1,0,1,11:11,40-50,Llevar,Hot,0,martes,Trabajador
+37,202,3,1,2,11:13,40-60,Local,Frappe,P Marmo,martes,Amigos
+38,91,1,0,1,11:15,50-60,Llevar,Hot,Galleta,martes,Trabajador
+39,34,1,0,1,11:20,30-40,Llevar,Te,0,martes,Trabajador
+40,29,1,1,0,11:22,30-40,Local,Hot,Dona,martes,Trabajador
+41,58,2,1,1,11:24,20-30,Local,Hot,Rollo,martes,Parejas
+42,65,1,0,1,11:25,20-30,Llevar,Frappe,0,martes,Trabajador
+43,29,1,0,1,11:26,20-30,Llevar,Te,0,martes,Trabajador
+44,111,1,0,1,11:27,20-30,Local,0,Yogurt,martes,Trabajador
+45,58,2,1,1,11:28,50-60,Local,CJQ,Rollo,martes,Parejas
+46,164,2,1,1,11:37,20-40,Local,Frappe,CJQ,martes,Parejas
+47,69,2,1,1,11:38,40-60,Llevar,Hot,0,martes,Parejas
+48,67,1,0,1,11:42,20-30,Llevar,Hot,0,martes,Trabajador
+49,103,2,2,0,11:51,40-60,Llevar,Jugo,0,martes,Parejas
+50,109,3,2,1,11:52,5-60,Llevar,Hot,Tarta M,martes,Amigos
+51,73,1,0,1,11:56,30-40,Llevar,Te,0,martes,Trabajador
+52,55,1,0,1,11:58,30-40,Llevar,Cold,0,martes,Trabajador
+53,64,1,0,1,12:03,20-30,Llevar,Hot,0,martes,Trabajador
+54,49,1,1,0,12:04,60-70,Llevar,Hot,0,martes,Trabajador
+55,109,1,1,0,12:08,20-30,Llevar,Jugo,P Pavo,martes,Trabajador
+56,32,1,0,1,12:12,40-50,Local,Hot,0,martes,Trabajador
+57,72,1,1,0,12:13,30-40,Local,0,Ensalada,martes,Trabajador
+58,159,1,0,1,12:16,30-40,Llevar,Hot,Tejas,martes,Trabajador
+59,90,2,0,2,12:20,40-50,Local,Hot,0,martes,Parejas
+60,215,1,0,1,12:21,20-30,Llevar,Cold,Tarta M,martes,Trabajador
+61,178,1,1,1,12:25,20-30,Local,Cold ,Muffin,martes,Estudiante
+62,52,1,1,1,12:28,40-50,Llevar,Cold,0,martes,Estudiante
+63,52,1,0,0,12:30,40-50,Llevar,Hot,0,martes,Estudiante
+64,254,2,1,1,12:33,30-40,Llevar,Te,P Pavo,martes,Parejas
+65,90,1,0,0,12:40,70-80,Llevar,Hot,Galleta,martes,Estudiante
+66,109,2,2,2,12:59,70-80,Local,Frappe,0,martes,Estudiante
+67,39,1,1,1,13:10,30-40,Llevar,Te,0,martes,Estudiante
+68,67,1,1,1,13:19,20-30,Local,Hot,0,martes,Estudiante
+69,49,1,1,1,13:47,20-30,Local,Hot,0,martes,Estudiante
+70,63,2,1,1,13:50,30-40,Local,Hot,0,martes,Parejas
+71,54,1,0,0,13:52,20-30,Local,Hot,0,martes,Estudiante
+72,25,1,0,0,13:53,30-40,Local,Hot,0,martes,Estudiante
+73,67,1,1,1,13:54,60-70,Local,Hot,0,martes,Estudiante
+74,60,1,1,1,14:17,50-60,Local,Jugo,Dona,martes,Estudiante
+75,55,1,1,1,14:25,20-30,Llevar,0,Tarta M,martes,Estudiante
+76,66,1,0,0,15:00,50-60,Llevar,Hot,Nueces,martes,Estudiante
+77,29,1,1,0,07:33,30-40,Llevar,Hot,0,miercoles,Trabajador
+78,25,1,0,1,08:07,20-30,Local,Hot,0,miercoles,Trabajador
+79,25,1,1,0,08:07,20-30,Local,Hot,0,miercoles,Trabajador
+80,79,2,1,1,08:21,30-40,Local,Hot,0,miercoles,Parejas
+81,106,2,1,1,08:26,30-40,Local,Hot,Tejas,miercoles,Parejas
+82,128,1,0,1,08:32,30-40,Llevar,Hot,0,miercoles,Trabajador
+83,36,1,1,0,08:39,30-40,Local,Hot,0,miercoles,Trabajador
+84,154,1,1,0,08:41,30-40,Llevar,Hot,Ficelle,miercoles,Trabajador
+85,58,2,0,2,08:47,40-50,Local,Hot,Dona,miercoles,Parejas
+86,36,1,1,0,08:53,30-40,Local,Hot,0,miercoles,Trabajador
+87,34,1,1,0,08:54,30-40,Local,Hot,0,miercoles,Trabajador
+88,130,1,0,1,09:06,30-40,Llevar,Hot,Hojaldre,miercoles,Trabajador
+89,29,1,0,1,09:28,50-60,Local,Hot,Dona,miercoles,Trabajador
+90,156,1,1,0,09:29,40-50,Llevar,Hot,0,miercoles,Trabajador
+91,63,1,0,1,09:51,30-40,Local,Hot,0,miercoles,Trabajador
+92,136,1,1,0,09:49,40-50,Llevar,Hot,Toronja,miercoles,Trabajador
+93,42,1,1,0,10:28,40-50,Llevar,Hot,0,miercoles,Trabajador
+94,96,1,1,0,10:42,30-40,Local,Hot,Envuelto A,miercoles,Trabajador
+95,128,1,1,0,10:44,20-30,Llevar,Hot,Nueces,miercoles,Trabajador
+96,49,1,1,0,10:46,30-40,Local,Hot,0,miercoles,Trabajador
+97,88,1,1,0,10:47,20-30,Local,Hot,Dona,miercoles,Trabajador
+98,102,2,1,1,10:57,20-30,Llevar,Hot,0,miercoles,Parejas
+99,110,1,0,1,10:59,30-40,Local,Hot,CJQ,miercoles,Trabajador
+100,54,1,0,1,11:05,40-50,Llevar,Hot,0,miercoles,Trabajador
+101,30,1,1,0,11:07,50-60,Local,Hot,0,miercoles,Trabajador
+102,137,2,1,1,11:15,30-40,Local,Hot,0,miercoles,Parejas
+103,125,1,1,0,11:16,30-40,Llevar,Hot,0,miercoles,Trabajador
+104,103,2,1,1,11:18,20-30,Local,Hot,P Limon,miercoles,Parejas
+105,29,1,1,0,11:23,30-40,Local,Hot,Rollo,miercoles,Trabajador
+106,39,1,1,0,11:24,20-30,Local,Hot,0,miercoles,Trabajador
+107,50,2,1,1,11:41,40-50,Llevar,Hot,0,miercoles,Parejas
+108,72,1,0,1,11:44,20-30,Llevar,Hot,0,miercoles,Trabajador
+109,29,1,0,1,11:45,30-40,Llevar,Hot,Dona,miercoles,Trabajador
+110,66,1,0,1,11:49,30-40,Local,Hot,0,miercoles,Trabajador
+111,25,1,1,0,11:50,20-30,Local,Hot,0,miercoles,Trabajador
+112,152,2,0,2,11:51,20-50,Local,Cold,P Español,miercoles,Parejas
+113,64,1,1,0,11:53,20-30,Local,Cold,0,miercoles,Trabajador
+114,29,1,0,1,11:56,30-40,Local,Hot,Rollo,miercoles,Trabajador
+115,70,1,0,1,11:58,30-40,Llevar,0,Nueces,miercoles,Trabajador
+116,194,2,0,2,12:00,20-40,Llevar,Hot,P Marmo,miercoles,Parejas
+117,479,4,1,3,12:06,20-30,Local,Frappe,0,miercoles,Amigos
+118,46,1,0,1,12:20,40-50,Local,Cold,0,miercoles,Trabajador
+119,74,2,1,1,12:25,30-40,Llevar,0,Rollo,miercoles,Parejas
+120,116,2,2,0,12:33,50-60,Llevar,Hot,Tejas,miercoles,Parejas
+121,68,1,1,0,12:34,30-40,Local,Jugo,CJQ,miercoles,Trabajador
+122,325,4,1,3,12:36,30-40,Local,Hot,P 3Q,miercoles,Amigos
+123,236,1,1,0,13:29,30-40,Llevar,Hot,Toronjas,miercoles,Amigos
+124,75,1,0,1,13:32,30-40,Local,Frappe,0,miercoles,Trabajador
+125,122,3,0,3,13:52,20-50,Local,Hot,0,miercoles,Amigos
+126,54,1,1,0,13:55,30-40,Llevar,Cold,0,miercoles,Trabajador
+127,87,1,0,1,13:58,40-50,Local,Hot,Galleta,miercoles,Trabajador
+128,84,2,0,1,14:34,40-50,Local,Cold,0,miercoles,Estudiante
+129,15,1,0,1,08:05,30-40,Local,Te,Galleta,jueves,Trabajador
+130,32,1,0,1,08:10,30-40,Local,Hot,0,jueves,Trabajador
+131,122,2,2,0,08:14,40-50,Local,Hot,P Limon,jueves,Parejas
+132,148,2,1,1,08:54,40-50,Llevar,Hot,CJQ,jueves,Parejas
+133,40,1,1,0,09:10,30-40,Local,Hot,Dona,jueves,Trabajador
+134,29,1,1,0,09:16,40-50,Local,Hot,Dona,jueves,Trabajador
+135,34,1,1,0,09:24,40-50,Llevar,Hot,0,jueves,Trabajador
+136,62,2,1,1,09:29,60-70,Llevar,0,P Pavo,jueves,Parejas
+137,57,1,0,1,09:51,30-40,Local,Hot,0,jueves,Trabajador
+138,80,1,0,1,09:56,40-50,Local,Hot,CJQ,jueves,Trabajador
+139,108,3,3,0,10:01,40-50,Llevar,Hot,0,jueves,Amigos
+140,39,1,1,0,10:10,50-60,Llevar,Te,0,jueves,Trabajador
+141,91,1,1,0,10:11,30-40,Llevar,Hot,P Clasico,jueves,Trabajador
+142,38,1,0,1,10:14,40-50,Llevar,Hot,0,jueves,Trabajador
+143,191,2,0,2,10:15,40-50,Llevar,Hot,0,jueves,Parejas
+144,42,1,1,0,10:20,50-60,Local,Hot,0,jueves,Trabajador
+145,64,1,1,0,10:27,40-50,Local,Hot,0,jueves,Trabajador
+146,106,2,1,1,10:29,20-30,Local,Te,0,jueves,Parejas
+147,29,1,1,0,10:30,20-30,Local,Hot,Dona,jueves,Trabajador
+148,25,1,1,0,10:32,40-50,Local,Hot,0,jueves,Trabajador
+149,336,5,4,1,10:36,20-30,Local,Frappe,0,jueves,Amigos
+150,40,1,1,0,10:38,40-50,Local,Hot,Rollo,jueves,Trabajador
+151,45,1,0,1,10:40,40-50,Llevar,Hot,0,jueves,Trabajador
+152,29,1,0,1,10:42,20-30,Local,Hot,Dona,jueves,Trabajador
+153,268,3,3,0,11:00,30-40,Local,Cold,P Español,jueves,Amigos
+154,54,2,1,1,11:05,60-70,Local,Hot,0,jueves,Parejas
+155,172,2,1,1,11:25,20-30,Local,Frappe,P Chocolate,jueves,Parejas
+156,108,2,0,2,12:00,30-40,Local,Cold,0,jueves,Parejas
+157,116,1,0,1,12:27,20-30,Local,Hot,P Esinacas,jueves,Trabajador
+158,139,2,0,2,14:40,20-40,Llevar,Cold,0,jueves,Parejas
+159,54,1,0,1,14:49,30-40,Llevar,Hot,0,jueves,Trabajador
+160,36,1,0,1,08:20,30-40,Local,Hot,0,viernes,Trabajador
+161,25,1,1,0,08:21,40-50,Local,Hot,0,viernes,Trabajador
+162,36,1,1,0,08:31,40-50,Local,Hot,0,viernes,Trabajador
+163,138,1,0,1,08:45,30-40,Local,Hot,P Queso,viernes,Trabajador
+164,60,1,0,1,08:48,30-40,Llevar,0,P Queso,viernes,Trabajador
+165,175,2,0,2,08:50,20-30,Llevar,Cold,P Chocolate,viernes,Parejas
+166,145,2,1,1,08:55,30-40,Llevar,Hot,Galleta,viernes,Parejas
+167,114,1,0,1,08:56,30-40,Local,Hot,Envuelto A,viernes,Trabajador
+168,106,1,1,0,09:17,40-50,Local,Te,CJQ,viernes,Trabajador
+169,63,1,1,0,09:21,40-50,Llevar,Hot,0,viernes,Trabajador
+170,48,1,0,1,09:31,30-40,Llevar,Hot,0,viernes,Trabajador
+171,34,1,1,0,09:34,30-40,Local,Te,0,viernes,Trabajador
+172,183,1,1,0,09:35,30-40,Llevar,Hot,P Pavo,viernes,Trabajador
+173,29,1,1,0,09:46,40-50,Local,Hot,Dona,viernes,Trabajador
+174,53,1,1,0,09:50,40-50,Local,Hot,0,viernes,Trabajador
+175,64,1,1,0,10:10,50-60,Llevar,Hot,0,viernes,Trabajador
+176,32,1,1,0,10:13,30-40,Llevar,Hot,0,viernes,Trabajador
+177,39,1,0,1,10:22,30-40,Llevar,Hot,0,viernes,Trabajador
+178,39,1,0,1,10:29,40-50,Local,Te,0,viernes,Trabajador
+179,64,1,1,0,10:30,20-30,Local,Frappe,0,viernes,Trabajador
+180,25,1,1,0,10:44,40-50,Llevar,Hot,0,viernes,Trabajador
+181,447,10,7,3,10:45,30-50,Llevar,Hot,Rollo,viernes,Amigos
+182,55,1,1,0,10:47,30-40,Local,Frappe,0,viernes,Trabajador
+183,54,1,0,1,10:49,30-40,Llevar,Frappe,0,viernes,Trabajador
+184,170,1,1,0,11:03,50-60,Local,Hot,Toronjas,viernes,Trabajador
+185,36,1,0,1,11:06,40-50,Local,Hot,Rollo,viernes,Trabajador
+186,54,1,0,1,11:15,50-60,Local,Hot,0,viernes,Trabajador
+187,117,2,1,1,11:20,40-50,Llevar,Hot,0,viernes,Parejas
+188,114,1,0,1,11:47,30-40,Local,Hot,P Espinaca,viernes,Trabajador
+189,171,2,0,2,12:21,20-30,Llevar,Cold,0,viernes,Parejas
+190,104,1,1,0,12:23,40-50,Llevar,Hot,Galleta,viernes,Trabajador
+191,414,5,1,4,12:58,30-50,Llevar,Cold,P Pavo,viernes,Amigos
+192,118,2,1,1,13:17,30-40,Local,Hot,0,viernes,Parejas
+193,62,1,0,1,13:18,30-40,Llevar,0,P Pavo,viernes,Trabajador
+194,34,1,1,0,13:19,60-70,Local,Te,0,viernes,Trabajador
+195,32,1,1,0,13:21,50-60,Local,Hot,0,viernes,Trabajador
+196,25,1,1,0,13:41,40-50,Local,Hot,0,viernes,Trabajador
+197,56,1,1,0,14:26,30-40,Llevar,Cold,0,viernes,Trabajador
+198,54,1,0,1,14:27,40-50,Local,Hot,0,viernes,Trabajador
+199,73,2,1,1,14:31,30-40,Local,Te,0,viernes,Parejas
+200,68,1,1,0,14:42,20-30,Llevar,Cold,0,viernes,Trabajador
+201,68,1,1,0,14:44,20-30,Llevar,Cold,0,viernes,Trabajador
+202,55,1,0,1,14:45,30-40,Llevar,Frappe,0,viernes,Trabajador
+203,54,1,0,1,14:47,20-30,Llevar,Frappe,0,viernes,Trabajador
+204,107,1,1,0,14:48,30-40,Local,Cold,P Pavo,viernes,Trabajador
+205,239,1,1,0,14:51,40-50,Llevar,Frappe,0,viernes,Amigos
+206,152,3,3,0,14:52,20-30,Local,Cold,0,viernes,Amigos
+207,32,1,1,0,14:53,40-50,Local,Hot,0,viernes,Trabajador
+208,65,1,1,0,14:58,40-50,Local,Hot,Galleta,viernes,Trabajador
+209,85,1,1,0,08:16,20-30,Local,Hot,Hojaldre,sabado,Trabajador
+210,69,1,0,1,08:49,40-50,Llevar,Hot,0,sabado,Trabajador
+211,139,2,1,1,08:50,40-50,Local,Hot,Dona,sabado,Parejas
+212,58,1,1,0,09:20,30-40,Local,Hot,0,sabado,Trabajador
+213,313,3,1,2,09:33,20-50,Local,Hot,CJQ,sabado,Amigos
+214,168,2,1,1,09:48,30-40,Local,Hot,CJQ,sabado,Parejas
+215,36,1,1,0,09:50,40-50,Local,Hot,Rollo,sabado,Trabajador
+216,68,2,2,0,09:57,40-50,Llevar,Hot,0,sabado,Parejas
+217,42,1,1,0,09:59,30-40,Llevar,Hot,0,sabado,Trabajador
+218,64,1,1,0,10:00,30-40,Llevar,Frappe,0,sabado,Trabajador
+219,205,2,2,0,10:03,20-30,Local,Hot,P Espinaca,sabado,Parejas
+220,39,1,0,1,10:06,30-40,Llevar,Te,0,sabado,Trabajador
+221,39,1,0,1,10:07,30-40,Llevar,Te,0,sabado,Trabajador
+222,34,1,1,0,10:11,40-50,Llevar,Te,0,sabado,Trabajador
+223,103,1,1,0,10:22,30-40,Llevar,Te,Nueces,sabado,Trabajador
+224,376,5,3,2,10:25,30-50,Local,Hot,Dona,sabado,Amigos
+225,215,2,1,1,10:48,30-40,Local,Hot,P Chocolate,sabado,Parejas
+226,58,1,1,0,10:53,20-30,Llevar,Hot,0,sabado,Trabajador
+227,63,1,1,0,10:54,30-40,Llevar,Hot,0,sabado,Trabajador
+228,478,2,2,0,10:55,30-40,Llevar,Cold,Hojaldre,sabado,Amigos
+229,98,1,0,1,11:10,40-50,Local,Hot,P Clasico,sabado,Trabajador
+230,65,1,1,0,11:12,20-30,Local,Frappe,0,sabado,Trabajador
+231,25,1,1,0,11:14,40-50,Local,Hot,0,sabado,Trabajador
+232,111,2,0,2,11:16,50-60,Llevar,Te,0,sabado,Parejas
+233,190,3,0,3,11:18,30-40,Local,Hot,P Limon,sabado,Amigos
+234,79,2,1,1,11:29,30-40,Llevar,Hot,0,sabado,Parejas
+235,329,2,2,0,11:32,40-50,Local,Cold,CJQ,sabado,Amigos
+236,101,1,0,1,11:41,20-30,Local,Cold,P Chocolate,sabado,Trabajador
+237,49,1,0,1,11:44,30-40,Llevar,Jugo,0,sabado,Trabajador
+238,287,2,1,1,11:52,20-30,Local,Frappe,Envuelto A,sabado,Parejas
+239,73,1,1,0,11:59,50-60,Llevar,Hot,0,sabado,Trabajador
+240,136,1,1,0,12:02,30-40,Llevar,Hot,P Queso,sabado,Trabajador
+241,100,2,0,2,12:09,20-30,Local,Cold,0,sabado,Parejas
+242,64,1,1,0,12:12,60-70,Llevar,Hot,0,sabado,Trabajador
+243,0,1,1,0,12:35,40-50,Llevar,Hot,0,sabado,Trabajador
+244,106,1,0,1,12:37,30-40,Llevar,Jugo,P Pavo,sabado,Trabajador
+245,32,1,0,1,12:46,40-50,Llevar,Hot,0,sabado,Trabajador
+246,64,1,0,1,12:55,50-60,Local,Cold,0,sabado,Trabajador
+247,118,2,2,0,12:56,30-40,Local,Hot,0,sabado,Parejas
+248,56,1,1,0,12:59,40-50,Local,Cold,0,sabado,Trabajador
+249,155,2,1,1,13:18,20-30,Local,Frappe,P Chocolate,sabado,Parejas
+250,84,1,0,1,13:21,40-50,Local,Hot,0,sabado,Trabajador
+251,93,2,2,0,13:24,50-60,Llevar,Te,0,sabado,Parejas
+252,175,1,0,1,13:26,40-50,Llevar,Cold,Rollo,sabado,Trabajador
+253,272,6,2,4,13:28,20-30,Local,Cold,0,sabado,Amigos
+254,110,2,1,1,13:31,30-40,Local,Cold,0,sabado,Parejas
+255,189,3,3,0,13:36,40-60,Llevar,Te,Tejas,sabado,Amigos
+256,55,1,1,0,13:51,30-40,Local,Frappe,0,sabado,Trabajador
+257,97,2,0,2,14:04,30-40,Local,Frappe,0,sabado,Parejas
+258,55,1,0,1,14:04,40-50,Llevar,Te,0,sabado,Trabajador
+259,123,2,1,1,14:10,30-40,Local,Frappe,0,sabado,Parejas
+260,48,1,1,0,14:14,20-30,Llevar,Frappe,0,sabado,Trabajador
+261,67,1,0,1,14:19,50-60,Local,Frappe,0,sabado,Trabajador
+262,108,2,1,1,14:23,30-40,Local,Cold,0,sabado,Parejas
+263,34,1,1,0,14:36,50-60,Llevar,Hot,0,sabado,Trabajador
+264,58,1,1,0,14:37,20-30,Llevar,Hot,0,sabado,Trabajador
+265,139,2,0,2,14:39,20-30,Local,Frappe,0,sabado,Parejas
+266,165,3,1,2,14:42,30-50,Local,Frappe,0,sabado,Amigos
+267,374,6,0,6,14:45,40-50,Local,Hot,0,sabado,Amigos
+268,367,4,2,2,14:46,30-40,Local,Hot,T Moras,sabado,Amigos
+269,69,1,0,1,14:57,20-30,Llevar,Frappe,0,sabado,Trabajador
+270,40,1,1,0,08:08,40-50,Local,Hot,Dona,domingo,Trabajador
+271,102,1,1,0,08:10,40-50,Local,Cold,Dona,domingo,Trabajador
+272,36,1,1,0,08:38,30-40,Llevar,Hot,Rollo,domingo,Trabajador
+273,32,1,0,1,09:00,30-40,Llevar,Hot,0,domingo,Trabajador
+274,135,2,1,1,09:08,30-40,Local,Jugo,CJQ,domingo,Parejas
+275,64,1,0,1,09:11,40-50,Local,Cold,0,domingo,Trabajador
+276,174,3,2,1,09:33,30-40,Local,Te,P Español,domingo,Amigos
+277,110,1,0,1,09:35,30-40,Local,Hot,P3Q,domingo,Trabajador
+278,54,1,1,0,09:36,30-40,Llevar,Hot,0,domingo,Trabajador
+279,0,1,1,0,09:44,20-30,Llevar,Cold,0,domingo,Trabajador
+280,66,2,1,1,10:15,30-40,Local,Hot,0,domingo,Parejas
+281,192,2,2,0,10:19,50-60,Local,Hot,P Espinaca,domingo,Parejas
+282,32,1,1,0,10:24,60-70,Llevar,Hot,0,domingo,Trabajador
+283,91,1,1,0,10:36,30-40,Llevar,Hot,Galleta,domingo,Trabajador
+284,110,1,0,1,10:43,50-60,Local,Cold,P Pavo,domingo,Trabajador
+285,52,1,1,0,10:55,20-30,Llevar,Cold,0,domingo,Trabajador
+286,62,1,0,1,11:03,20-30,Llevar,Frappe,0,domingo,Trabajador
+287,59,1,1,0,11:07,40-50,Llevar,Frappe,0,domingo,Trabajador
+288,148,2,1,1,11:13,30-40,Local,Frappe,Dona,domingo,Parejas
+289,53,1,0,1,11:15,40-50,Llevar,Hot,0,domingo,Trabajador
+290,64,1,1,0,11:37,20-30,Llevar,Frappe,0,domingo,Trabajador
+291,25,1,1,0,11:39,60-70,Local,Hot,0,domingo,Trabajador
+292,39,1,0,1,11:48,40-50,Local,Hot,0,domingo,Trabajador
+293,77,1,0,1,12:06,30-40,Local,Hot,CJQ,domingo,Trabajador
+294,65,1,1,0,12:11,50-60,Llevar,Frappe,0,domingo,Trabajador
+295,49,1,1,0,12:13,30-40,Llevar,Cold,0,domingo,Trabajador
+296,0,1,0,1,12:17,20-30,Local,Cold,0,domingo,Trabajador
+297,68,1,1,0,12:20,30-40,Local,Jugo,Galleta,domingo,Trabajador
+298,125,2,1,1,12:28,20-50,Local,Hot,0,domingo,Parejas
+299,179,2,1,0,12:31,40-50,Llevar,Cold,P Español,domingo,Estudiante
+300,266,4,1,3,12:34,20-30,Local,Frappe,0,domingo,Amigos
+301,72,1,0,1,12:37,50-60,Llevar,0,Ensalada,domingo,Trabajador
+302,64,1,0,1,12:38,20-30,Llevar,Cold,0,domingo,Trabajador
+303,126,2,1,1,12:40,30-40,Llevar,Cold,Dona,domingo,Parejas
+304,105,2,1,1,12:51,50-60,Local,Frappe,0,domingo,Parejas
+305,48,1,1,0,13:21,30-40,Local,Hot,0,domingo,Trabajador
+306,50,1,1,0,13:22,20-30,Llevar,Cold,0,domingo,Trabajador
+307,159,4,4,0,13:28,30-40,Local,Frappe,CJQ,domingo,Amigos
+308,171,3,1,2,13:46,20-30,Local,Frappe,0,domingo,Amigos
+309,138,2,1,1,13:48,50-60,Llevar,Frappe,0,domingo,Parejas
+310,50,1,1,0,13:51,50-60,Local,Frappe,0,domingo,Trabajador
+311,62,1,0,1,14:03,40-50,Local,Frappe,0,domingo,Trabajador
+312,59,1,0,1,14:08,20-30,Local,Frappe,0,domingo,Trabajador
+313,148,1,1,0,14:14,40-50,Llevar,Hot,Dona,domingo,Trabajador
+314,53,1,0,1,14:15,60-70,Local,Hot,0,domingo,Trabajador
+315,64,1,1,0,14:18,40-50,Llevar,Frappe,0,domingo,Trabajador
+316,25,1,0,1,14:19,50-60,Local,Hot,0,domingo,Trabajador
+317,39,1,0,1,14:24,30-40,Local,Hot,0,domingo,Trabajador
+318,89,1,1,0,14:37,40-50,Local,Hot,CJQ,domingo,Trabajador
+319,32,1,1,0,14:53,60-70,Local,Hot,0,domingo,Trabajador
+320,25,1,0,1,08:06,20-30,Local ,Hot,0,martes,Trabajador
+321,29,1,0,1,08:07,40-50,Local,Hot,Rollo,martes,Trabajador
+322,48,1,0,1,08:09,20-30,Llevar,Hot,0,martes,Trabajador
+323,54,1,1,0,08:10,40-50,Local,Frappe,0,martes,Trabajador
+324,113,1,0,1,08:24,30-40,Llevar,Te,Envuelto,martes,Trabajador
+325,89,2,1,1,08:28,30-40,Local,Te,Tejas,martes,Parejas
+326,25,1,1,0,08:29,40-50,Llevar,Hot,0,martes,Trabajador
+327,54,1,0,1,08:31,40-50,Llevar,Hot,Envuelto A,martes,Trabajador
+328,36,1,1,0,08:36,40-50,Llevar,Hot,0,martes,Trabajador
+329,65,1,0,1,08:46,20-30,Local,Hot,P Marmol,martes,Trabajador
+330,36,1,0,1,09:06,50-60,Local,Hot,0,martes,Trabajador
+331,25,1,1,0,09:08,50-60,Local,Hot,0,martes,Trabajador
+332,38,1,1,0,09:10,40-50,Local,Hot,0,martes,Trabajador
+333,96,2,1,1,09:14,40-50,Llevar,Hot,0,martes,Parejas
+334,114,1,1,0,09:18,40-50,Local,Hot,P Esp,martes,Trabajador
+335,39,1,1,0,09:22,30-40,Llevar,Hot,0,martes,Trabajador
+336,48,1,1,0,09:25,40-50,Local,Hot,Dona CC,martes,Trabajador
+337,32,1,1,0,09:37,60-70,Local,Hot,0,martes,Trabajador
+338,58,2,1,1,09:50,30-40,Local,Hot,Rollo,martes,Parejas
+339,117,2,0,2,09:54,30-40,Llevar,Hot,CJQ,martes,Parejas
+340,29,1,1,0,09:56,40-50,Llevar,Te,0,martes,Trabajador
+341,29,1,0,1,09:58,40-50,Llevar,Hot,Rollo,martes,Trabajador
+342,65,1,1,0,09:59,40-50,Llevar,Cold,0,martes,Trabajador
+343,34,1,0,1,10:23,30-40,Llevar,Te,0,martes,Trabajador
+344,48,1,0,1,10:24,20-30,Llevar,Jugo,0,martes,Trabajador
+345,32,1,0,1,10:25,70-80,Local,Hot,0,martes,Trabajador
+346,56,1,1,0,10:26,40-50,Local,Hot,0,martes,Trabajador
+347,29,1,1,0,10:34,40-50,Llevar,Hot,Dona,martes,Trabajador
+348,29,1,1,0,10:42,30-40,Local,Hot,Dona,martes,Trabajador
+349,108,1,1,0,10:47,40-50,Llevar,Hot,Envuelto A,martes,Trabajador
+350,48,1,1,0,10:48,70-80,Local,Hot,0,martes,Trabajador
+351,111,1,0,1,10:49,40-50,Llevar,Hot,Envuelto,martes,Trabajador
+352,105,2,1,1,10:52,40-50,Local,Hot,0,martes,Parejas
+353,49,1,1,0,10:54,50-60,Local,Hot,0,martes,Trabajador
+354,154,2,1,1,11:00,40-70,Local,Hot,CJQ,martes,Parejas
+355,69,1,1,0,11:10,30-40,Local,Hot,P Clasico,martes,Trabajador
+356,42,1,0,1,11:11,40-50,Llevar,Hot,0,martes,Trabajador
+357,219,3,1,2,11:13,40-60,Local,Frappe,P Marmo,martes,Amigos
+358,57,1,0,1,11:15,50-60,Llevar,Hot,Galleta,martes,Trabajador
+359,69,1,0,1,11:20,30-40,Llevar,Te,0,martes,Trabajador
+360,29,1,1,0,11:22,30-40,Local,Hot,Dona,martes,Trabajador
+361,125,2,1,1,11:24,20-30,Local,Hot,Rollo,martes,Parejas
+362,87,1,0,1,11:25,20-30,Llevar,Frappe,0,martes,Trabajador
+363,36,1,0,1,11:26,20-30,Llevar,Te,0,martes,Trabajador
+364,158,4,1,3,11:27,20-30,Local,Cold,0,martes,Amigos
+365,84,2,1,1,11:28,50-60,Local,CJQ,Rollo,martes,Parejas
+366,187,2,1,1,11:37,20-40,Local,Frappe,CJQ,martes,Parejas
+367,32,2,1,1,11:38,40-60,Llevar,Hot,0,martes,Parejas
+368,25,1,0,1,11:42,20-30,Llevar,Hot,0,martes,Trabajador
+369,118,2,2,0,11:51,40-60,Llevar,Jugo,0,martes,Parejas
+370,187,3,2,1,11:52,5-60,Llevar,Hot,Tarta M,martes,Amigos
+371,54,1,0,1,11:56,30-40,Llevar,Te,0,martes,Trabajador
+372,55,1,0,1,11:58,30-40,Llevar,Cold,0,martes,Trabajador
+373,64,1,0,1,12:03,20-30,Llevar,Hot,0,martes,Trabajador
+374,48,1,1,0,12:04,60-70,Llevar,Cold,0,martes,Trabajador
+375,93,1,1,0,12:08,20-30,Llevar,Jugo,P Pavo,martes,Trabajador
+376,32,1,0,1,12:12,40-50,Local,Hot,0,martes,Trabajador
+377,81,1,1,0,12:13,30-40,Local,0,Ensalada,martes,Trabajador
+378,169,2,2,0,12:16,30-40,Llevar,Hot,Tejas,martes,Parejas
+379,84,2,0,2,12:20,40-50,Local,Hot,0,martes,Parejas
+380,228,1,0,1,12:21,20-30,Llevar,Cold,Tarta M,martes,Amigos
+381,185,1,0,1,12:25,20-30,Local,Cold ,Muffin,martes,Trabajador
+382,52,1,0,1,12:28,40-50,Llevar,Cold,0,martes,Trabajador
+383,52,1,0,1,12:30,40-50,Llevar,Hot,0,martes,Trabajador
+384,166,2,1,1,12:33,30-40,Llevar,Te,P Pavo,martes,Parejas
+385,84,1,0,1,12:40,70-80,Llevar,Cold,Galleta,martes,Trabajador
+386,115,2,0,2,12:59,70-80,Local,Frappe,0,martes,Parejas
+387,36,1,0,1,13:10,30-40,Llevar,Te,0,martes,Trabajador
+388,87,1,0,2,13:19,20-30,Local,Hot,0,martes,Estudiante
+389,54,1,1,1,13:47,20-30,Local,Hot,0,martes,Estudiante
+390,69,2,1,1,13:50,30-40,Local,Hot,0,martes,Parejas
+391,54,1,0,1,13:52,20-30,Local,Hot,0,martes,Trabajador
+392,25,1,0,1,13:53,30-40,Local,Hot,0,martes,Trabajador
+393,84,1,1,0,13:54,60-70,Local,Frappe,0,martes,Trabajador
+394,72,1,1,0,14:08,50-60,Local,Jugo,Dona,martes,Trabajador
+395,54,1,0,1,14:13,20-30,Llevar,0,Tarta M,martes,Trabajador
+396,66,1,1,0,14:17,50-60,Llevar,Hot,Nueces,martes,Trabajador
+397,32,1,1,0,14:22,30-40,Llevar,Cold,0,martes,Trabajador
+398,36,1,0,1,14:23,20-30,Local,Cold,0,martes,Trabajador
+399,25,1,1,0,14:25,20-30,Local,Cold,0,martes,Trabajador
+400,79,2,1,1,14:28,30-40,Local,Cold,0,martes,Parejas
+401,106,2,1,1,14:35,30-40,Local,Hot,Tejas,martes,Parejas
+402,128,1,0,1,14:37,30-40,Llevar,Hot,0,martes,Trabajador
+403,36,1,1,0,14:39,30-40,Local,Hot,0,martes,Trabajador
+404,154,1,1,0,14:47,30-40,Llevar,Hot,Ficelle,martes,Trabajador
+405,58,2,0,1,14:54,40-50,Local,Hot,0,martes,Estudiante
+406,36,1,1,0,14:57,30-40,Local,Cold,0,martes,Trabajador
+407,34,1,1,0,14:58,30-40,Local,Cold,0,martes,Trabajador
+408,130,2,2,0,15:00,30-40,Llevar,Hot,Hojaldre,martes,Parejas
+409,29,1,0,1,15:02,50-60,Local,Hot,Dona,martes,Trabajador
+410,36,1,1,0,08:02,30-40,Llevar,Hot,0,miercoles,Trabajador
+411,48,1,0,1,08:07,20-30,Local,Hot,0,miercoles,Trabajador
+412,48,1,1,0,08:07,20-30,Local,Hot,0,miercoles,Trabajador
+413,79,2,1,1,08:21,30-40,Local,Hot,0,miercoles,Parejas
+414,118,2,1,1,08:26,30-40,Local,Hot,Tejas,miercoles,Parejas
+415,131,1,0,1,08:32,30-40,Llevar,Hot,0,miercoles,Trabajador
+416,25,1,1,0,08:39,30-40,Local,Hot,0,miercoles,Trabajador
+417,169,1,1,0,08:41,30-40,Llevar,Hot,Ficelle,miercoles,Trabajador
+418,69,2,0,2,08:47,40-50,Local,Hot,Dona,miercoles,Parejas
+419,40,1,1,0,08:53,30-40,Local,Hot,Dona,miercoles,Trabajador
+420,34,1,1,0,08:54,30-40,Local,Hot,0,miercoles,Trabajador
+421,146,1,0,1,09:06,30-40,Llevar,Hot,Hojaldre,miercoles,Trabajador
+422,29,1,0,1,09:11,50-60,Local,Hot,Dona,miercoles,Trabajador
+423,156,1,1,0,09:14,40-50,Llevar,Hot,0,miercoles,Trabajador
+424,63,1,0,1,09:18,30-40,Local,Hot,0,miercoles,Trabajador
+425,158,1,1,0,09:21,40-50,Llevar,Hot,Toronja,miercoles,Trabajador
+426,52,1,1,0,09:24,40-50,Llevar,Hot,0,miercoles,Trabajador
+427,108,1,1,0,09:28,30-40,Local,Hot,Envuelto A,miercoles,Trabajador
+428,128,1,1,0,09:30,20-30,Llevar,Hot,Nueces,miercoles,Trabajador
+429,59,1,1,0,09:32,30-40,Local,Hot,0,miercoles,Trabajador
+430,69,1,1,0,09:35,20-30,Local,Hot,Dona,miercoles,Trabajador
+431,102,2,1,1,09:38,20-30,Llevar,Hot,0,miercoles,Parejas
+432,116,1,0,1,09:41,30-40,Local,Hot,CJQ,miercoles,Trabajador
+433,65,1,0,1,09:46,40-50,Llevar,Hot,0,miercoles,Trabajador
+434,32,1,1,0,09:48,50-60,Local,Hot,0,miercoles,Trabajador
+435,137,2,1,1,09:51,30-40,Local,Hot,0,miercoles,Parejas
+436,125,1,1,0,09:53,30-40,Llevar,Hot,0,miercoles,Trabajador
+437,103,2,1,1,09:54,20-30,Local,Hot,P Limon,miercoles,Parejas
+438,45,1,1,0,10:01,30-40,Local,Jugo,0,miercoles,Trabajador
+439,33,1,1,0,10:02,20-30,Local,Hot,0,miercoles,Trabajador
+440,50,2,1,1,10:03,40-50,Llevar,Hot,0,miercoles,Parejas
+441,88,1,0,1,10:04,20-30,Llevar,Hot,0,miercoles,Trabajador
+442,36,1,0,1,10:21,30-40,Llevar,Hot,Dona,miercoles,Trabajador
+443,79,1,0,1,10:27,30-40,Local,Hot,0,miercoles,Trabajador
+444,36,1,1,0,10:32,20-30,Local,Hot,0,miercoles,Trabajador
+445,184,2,0,2,10:33,20-50,Local,Cold,P Español,miercoles,Parejas
+446,68,1,1,0,10:40,20-30,Local,Cold,0,miercoles,Trabajador
+447,29,1,0,1,10:46,30-40,Local,Hot,Rollo,miercoles,Trabajador
+448,78,1,0,1,11:01,30-40,Llevar,0,Nueces,miercoles,Trabajador
+449,194,2,0,2,11:03,20-40,Llevar,Hot,P Marmo,miercoles,Parejas
+450,396,4,1,3,11:08,20-30,Local,Frappe,0,miercoles,Amigos
+451,46,1,0,1,11:14,40-50,Local,Cold,0,miercoles,Trabajador
+452,83,2,1,1,11:22,30-40,Llevar,0,Rollo,miercoles,Parejas
+453,121,2,2,0,11:33,50-60,Llevar,Hot,Tejas,miercoles,Parejas
+454,74,1,1,0,11:35,30-40,Local,Jugo,CJQ,miercoles,Trabajador
+455,345,4,1,3,11:36,30-40,Local,Hot,P 3Q,miercoles,Amigos
+456,236,2,2,0,11:41,30-40,Llevar,Hot,Toronjas,miercoles,Parejas
+457,54,1,0,1,11:43,30-40,Local,Frappe,0,miercoles,Trabajador
+458,89,3,0,3,11:51,20-50,Local,Hot,0,miercoles,Amigos
+459,54,1,1,0,12:09,30-40,Llevar,Cold,0,miercoles,Trabajador
+460,87,1,0,1,12:15,40-50,Local,Hot,Galleta,miercoles,Trabajador
+461,84,2,1,1,12:16,40-50,Local,Cold,0,miercoles,Parejas
+462,33,1,0,1,12:18,30-40,Local,Te,Galleta,miercoles,Trabajador
+463,32,1,0,1,12:27,30-40,Local,Hot,0,miercoles,Trabajador
+464,141,3,1,2,12:31,40-50,Local,Hot,0,miercoles,Amigos
+465,183,2,1,1,12:36,40-50,Llevar,Hot,CJQ,miercoles,Parejas
+466,39,1,1,0,12:43,30-40,Local,Hot,Dona,miercoles,Trabajador
+467,40,1,1,0,12:49,40-50,Local,Hot,Dona,miercoles,Trabajador
+468,36,1,1,0,13:01,40-50,Llevar,Hot,0,miercoles,Trabajador
+469,62,2,1,1,13:04,60-70,Llevar,0,P Pavo,miercoles,Parejas
+470,74,1,0,1,13:07,30-40,Local,Hot,0,miercoles,Trabajador
+471,80,1,0,1,13:21,40-50,Local,Hot,CJQ,miercoles,Trabajador
+472,185,3,3,0,13:31,40-50,Llevar,Hot,0,miercoles,Amigos
+473,39,1,1,0,13:32,50-60,Llevar,Te,0,miercoles,Trabajador
+474,91,1,1,0,13:36,30-40,Llevar,Hot,P Clasico,miercoles,Trabajador
+475,38,1,0,1,13:42,40-50,Llevar,Hot,0,miercoles,Trabajador
+476,211,2,0,2,13:50,40-50,Llevar,Hot,0,miercoles,Parejas
+477,42,1,1,0,13:53,50-60,Local,Hot,0,miercoles,Trabajador
+478,64,1,1,0,14:00,40-50,Local,Hot,0,miercoles,Trabajador
+479,176,2,1,1,14:03,20-30,Local,Te,0,miercoles,Parejas
+480,29,1,1,0,14:11,20-30,Local,Hot,Dona,miercoles,Trabajador
+481,25,1,1,0,14:15,40-50,Local,Hot,0,miercoles,Trabajador
+482,401,5,4,1,14:17,20-30,Local,Frappe,0,miercoles,Amigos
+483,40,1,1,0,14:18,40-50,Local,Hot,Rollo,miercoles,Trabajador
+484,45,1,0,1,14:20,40-50,Llevar,Hot,0,miercoles,Trabajador
+485,29,1,0,1,14:23,20-30,Local,Hot,Dona,miercoles,Trabajador
+486,222,3,3,0,14:24,30-40,Local,Cold,P Español,miercoles,Amigos
+487,54,2,1,1,14:26,60-70,Local,Hot,0,miercoles,Parejas
+488,172,2,1,1,14:31,20-30,Local,Frappe,P Chocolate,miercoles,Parejas
+489,108,2,0,2,14:33,30-40,Local,Cold,0,miercoles,Parejas
+490,116,1,0,1,14:38,20-30,Local,Hot,P Esinacas,miercoles,Trabajador
+491,139,2,0,2,14:51,20-40,Llevar,Cold,0,miercoles,Parejas
+492,54,1,0,1,14:59,30-40,Llevar,Cold,0,miercoles,Trabajador
+493,61,1,0,1,08:05,30-40,Local,Hot,0,jueves,Trabajador
+494,32,1,0,1,08:10,30-40,Local,Hot,0,jueves,Trabajador
+495,131,2,2,0,08:14,40-50,Local,Hot,P Limon,jueves,Parejas
+496,159,2,1,1,08:54,40-50,Llevar,Hot,CJQ,jueves,Parejas
+497,53,1,1,0,09:10,30-40,Local,Hot,Dona,jueves,Trabajador
+498,31,1,1,0,09:16,40-50,Local,Hot,Dona,jueves,Trabajador
+499,40,1,1,0,09:24,40-50,Llevar,Hot,0,jueves,Trabajador
+500,101,2,1,1,09:29,60-70,Llevar,Hot,Ensalada,jueves,Parejas
+501,57,1,0,1,09:51,30-40,Local,Hot,0,jueves,Trabajador
+502,93,1,0,1,09:56,40-50,Local,Hot,CJQ,jueves,Trabajador
+503,226,3,3,0,10:01,40-50,Llevar,Hot,0,jueves,Amigos
+504,39,1,1,0,10:10,50-60,Llevar,Te,0,jueves,Trabajador
+505,91,1,1,0,10:11,30-40,Llevar,Hot,P Clasico,jueves,Trabajador
+506,41,1,0,1,10:14,40-50,Llevar,Hot,0,jueves,Trabajador
+507,216,2,0,2,10:15,40-50,Llevar,Hot,P Clasico,jueves,Parejas
+508,42,1,1,0,10:20,50-60,Local,Hot,0,jueves,Trabajador
+509,64,1,1,0,10:27,40-50,Local,Hot,0,jueves,Trabajador
+510,106,2,1,1,10:29,20-30,Local,Te,0,jueves,Parejas
+511,29,1,1,0,10:30,20-30,Local,Hot,Dona,jueves,Trabajador
+512,25,1,1,0,10:32,40-50,Local,Hot,0,jueves,Trabajador
+513,455,5,4,1,10:36,20-30,Local,Frappe,0,jueves,Amigos
+514,54,1,1,0,10:38,40-50,Local,Hot,0,jueves,Trabajador
+515,45,1,0,1,10:40,40-50,Llevar,Hot,0,jueves,Trabajador
+516,29,1,0,1,10:42,20-30,Local,Hot,Dona,jueves,Trabajador
+517,208,3,3,0,11:04,30-40,Local,Cold,P limon,jueves,Amigos
+518,61,2,1,1,11:07,60-70,Local,Hot,0,jueves,Parejas
+519,172,2,1,1,11:14,20-30,Local,Frappe,P Chocolate,jueves,Parejas
+520,108,2,0,2,11:18,30-40,Local,Cold,0,jueves,Parejas
+521,116,1,0,1,11:22,20-30,Local,Hot,P Esinacas,jueves,Trabajador
+522,139,2,0,2,12:02,20-40,Llevar,Cold,0,jueves,Parejas
+523,54,1,0,1,12:14,30-40,Llevar,Hot,0,jueves,Trabajador
+524,36,1,0,1,12:20,30-40,Local,Hot,0,jueves,Trabajador
+525,25,1,1,0,12:30,40-50,Local,Hot,0,jueves,Trabajador
+526,36,1,1,0,12:38,40-50,Local,Hot,0,jueves,Trabajador
+527,138,1,0,1,12:41,30-40,Local,Hot,P Queso,jueves,Trabajador
+528,60,1,0,1,12:54,30-40,Llevar,0,P Queso,jueves,Trabajador
+529,175,2,0,2,12:56,20-30,Llevar,Cold,P Chocolate,jueves,Parejas
+530,194,3,0,3,13:03,30-40,Llevar,Te,Galleta,jueves,Amigos
+531,114,1,0,1,13:12,30-40,Local,Hot,Envuelto A,jueves,Trabajador
+532,106,1,1,0,13:14,40-50,Local,Te,CJQ,jueves,Trabajador
+533,63,1,1,0,13:26,40-50,Llevar,Hot,0,jueves,Trabajador
+534,54,1,0,1,13:31,30-40,Llevar,Hot,0,jueves,Trabajador
+535,42,1,1,0,13:36,30-40,Local,Te,0,jueves,Trabajador
+536,127,1,1,0,13:41,30-40,Llevar,Hot,P Pavo,jueves,Trabajador
+537,29,1,1,0,13:56,40-50,Local,Hot,Dona,jueves,Trabajador
+538,53,1,1,0,13:58,40-50,Local,Hot,0,jueves,Trabajador
+539,64,1,1,0,14:04,50-60,Llevar,Hot,0,jueves,Trabajador
+540,32,1,1,0,14:25,30-40,Llevar,Hot,0,jueves,Trabajador
+541,39,1,0,1,14:37,30-40,Llevar,Hot,0,jueves,Trabajador
+542,36,1,0,1,08:20,30-40,Local,Hot,0,viernes,Trabajador
+543,32,1,1,0,08:21,40-50,Local,Hot,0,viernes,Trabajador
+544,40,1,1,0,08:31,40-50,Local,Hot,Rollo,viernes,Trabajador
+545,94,1,0,1,08:45,30-40,Local,Hot,P Queso,viernes,Trabajador
+546,54,1,0,1,08:48,30-40,Llevar,Hot,0,viernes,Trabajador
+547,175,2,0,2,08:50,20-30,Llevar,Hot,P Chocolate,viernes,Parejas
+548,151,2,1,1,08:55,30-40,Llevar,Hot,Galleta,viernes,Parejas
+549,186,2,2,0,08:56,30-40,Local,Hot,CJQ,viernes,Parejas
+550,115,1,1,0,09:17,40-50,Local,Te,CJQ,viernes,Trabajador
+551,63,1,1,0,09:21,40-50,Llevar,Hot,0,viernes,Trabajador
+552,52,1,0,1,09:31,30-40,Llevar,Hot,0,viernes,Trabajador
+553,42,1,1,0,09:34,30-40,Local,Te,0,viernes,Trabajador
+554,193,3,1,2,09:35,30-40,Llevar,Cold,0,viernes,Amigos
+555,29,1,1,0,09:51,40-50,Local,Hot,Dona,viernes,Trabajador
+556,53,1,1,0,09:53,40-50,Local,Hot,0,viernes,Trabajador
+557,65,1,1,0,09:54,50-60,Llevar,Hot,0,viernes,Trabajador
+558,36,1,1,0,09:58,30-40,Llevar,Hot,0,viernes,Trabajador
+559,40,1,0,1,10:02,30-40,Llevar,Hot,0,viernes,Trabajador
+560,42,1,0,1,10:07,40-50,Local,Te,0,viernes,Trabajador
+561,74,1,1,0,10:08,20-30,Local,Frappe,0,viernes,Trabajador
+562,29,1,1,0,10:12,40-50,Llevar,Hot,Rollo,viernes,Trabajador
+563,511,10,7,3,10:20,30-50,Llevar,Hot,Rollo,viernes,Amigos
+564,55,1,1,0,10:24,30-40,Local,Frappe,0,viernes,Trabajador
+565,54,1,0,1,10:31,30-40,Llevar,Frappe,0,viernes,Trabajador
+566,170,2,1,1,10:48,50-60,Local,Hot,Toronjas,viernes,Parejas
+567,36,1,0,1,10:51,40-50,Local,Hot,Rollo,viernes,Trabajador
+568,54,1,0,1,11:01,50-60,Local,Hot,0,viernes,Trabajador
+569,125,2,1,1,11:04,40-50,Llevar,Hot,0,viernes,Parejas
+570,116,1,0,1,11:16,30-40,Local,Hot,P Espinaca,viernes,Trabajador
+571,171,2,0,2,11:22,20-30,Llevar,Cold,0,viernes,Parejas
+572,104,1,1,0,11:31,40-50,Llevar,Hot,Galleta,viernes,Trabajador
+573,311,4,0,4,11:34,30-50,Llevar,Cold,0,viernes,Amigos
+574,118,2,1,1,11:41,30-40,Local,Hot,0,viernes,Parejas
+575,62,1,0,1,11:44,30-40,Llevar,0,P Pavo,viernes,Trabajador
+576,34,1,1,0,11:48,60-70,Local,Te,0,viernes,Trabajador
+577,32,1,1,0,11:49,50-60,Local,Hot,0,viernes,Trabajador
+578,25,1,1,0,11:51,40-50,Local,Hot,0,viernes,Trabajador
+579,56,1,1,0,11:54,30-40,Llevar,Cold,0,viernes,Trabajador
+580,54,1,0,1,11:59,40-50,Local,Hot,0,viernes,Trabajador
+581,73,2,1,1,12:03,30-40,Local,Te,0,viernes,Parejas
+582,68,1,1,0,12:04,20-30,Llevar,Cold,0,viernes,Trabajador
+583,68,1,1,0,12:08,20-30,Llevar,Cold,0,viernes,Trabajador
+584,55,1,0,1,12:11,30-40,Llevar,Frappe,0,viernes,Trabajador
+585,54,1,0,1,12:15,20-30,Llevar,Frappe,0,viernes,Trabajador
+586,107,1,1,0,12:17,30-40,Local,Cold,P Pavo,viernes,Trabajador
+587,239,1,1,0,12:18,40-50,Llevar,Frappe,0,viernes,Amigos
+588,152,3,3,0,12:21,20-30,Local,Cold,0,viernes,Amigos
+589,32,1,1,0,12:33,40-50,Local,Hot,0,viernes,Trabajador
+590,65,1,1,0,12:34,40-50,Local,Hot,Galleta,viernes,Trabajador
+591,85,1,1,0,12:36,20-30,Local,Hot,Hojaldre,viernes,Trabajador
+592,74,1,0,1,12:38,40-50,Llevar,Hot,0,viernes,Trabajador
+593,146,2,1,1,12:44,40-50,Local,Hot,Dona,viernes,Parejas
+594,42,1,1,0,12:51,30-40,Local,Hot,0,viernes,Trabajador
+595,384,3,3,0,12:58,20-50,Local,Frappe,CJQ,viernes,Amigos
+596,168,2,1,1,13:00,30-40,Local,Hot,CJQ,viernes,Parejas
+597,36,1,1,0,13:02,40-50,Local,Hot,Rollo,viernes,Trabajador
+598,68,2,2,0,13:04,40-50,Llevar,Cold,0,viernes,Parejas
+599,42,1,1,0,13:10,30-40,Llevar,Cold,0,viernes,Trabajador
+600,64,1,1,0,13:14,30-40,Llevar,Frappe,0,viernes,Trabajador
+601,213,2,2,0,13:21,20-30,Local,Frappe,0,viernes,Parejas
+602,42,1,0,1,13:30,30-40,Llevar,Te,0,viernes,Trabajador
+603,39,1,0,1,13:33,30-40,Llevar,Te,0,viernes,Trabajador
+604,34,1,1,0,13:34,40-50,Llevar,Te,0,viernes,Trabajador
+605,103,1,1,0,13:37,30-40,Llevar,Te,Nueces,viernes,Trabajador
+606,405,3,3,0,13:41,30-50,Local,Frappe,P Español,viernes,Amigos
+607,164,2,1,1,13:47,30-40,Local,Hot,P Chocolate,viernes,Parejas
+608,58,1,1,0,13:51,20-30,Llevar,Hot,0,viernes,Trabajador
+609,63,1,1,0,13:56,30-40,Llevar,Hot,0,viernes,Trabajador
+610,312,2,2,0,14:02,30-40,Llevar,Cold,Hojaldre,viernes,Amigos
+611,98,1,0,1,14:14,40-50,Local,Hot,P Clasico,viernes,Trabajador
+612,65,1,1,0,14:23,20-30,Local,Frappe,0,viernes,Trabajador
+613,25,1,1,0,14:51,40-50,Local,Hot,0,viernes,Trabajador
+614,111,2,0,2,14:57,50-60,Llevar,Te,0,viernes,Parejas
+615,190,3,0,3,15:02,30-40,Local,Hot,P Limon,viernes,Amigos
+616,79,2,1,1,15:07,30-40,Llevar,Hot,0,viernes,Parejas
