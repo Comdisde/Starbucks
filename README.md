@@ -8,3 +8,6 @@ We clustering the data getting four groups:
 - Couples
 
 
+Presentation: http://prezi.com/w_4ob7tmzqgh/?utm_campaign=share&utm_medium=copy
+
+
